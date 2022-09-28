@@ -5,4 +5,5 @@
 ::  This flash drive is for personal use only, not to troll your friends.
 
 
-FOR /L %%I IN (1,1,20) DO md %userprofile%\OneDrive\desktop\TROLLED-LOL-%%I
+FOR /L %%I IN (1,1,40) DO copy troll-face.png %userprofile%\OneDrive\desktop\troll-face-%%I.png
+
